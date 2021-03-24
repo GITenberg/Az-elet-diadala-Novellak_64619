@@ -1,0 +1,31 @@
+_repo: Az-elet-diadala-Novellak_64619
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Szomory, Dezső
+    alias: Szomory, Dezso
+    birthdate: 1869
+    deathdate: 1944
+    gutenberg_agent_id: '52178'
+    url: http://www.gutenberg.org/2009/agents/52178
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Dezs%C5%91_Szomory
+    - https://hu.wikipedia.org/wiki/Szomory_Dezs%C5%91
+description: ''
+gutenberg_issued: '2021-02-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64619'
+language: hu
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, Hungarian'
+- !lcsh 'Hungarian fiction -- 20th century'
+- !lcc 'PH'
+- GITenberg
+tableOfContents: Az élet diadala -- Mülhausen-nél a szomoru tiszt -- Meyerbeer --
+  Mándy Kázmér öngyilkossága -- Régi szent történet.
+title: 'Az élet diadala: Novellák'
+url: http://www.gutenberg.org/ebooks/64619
