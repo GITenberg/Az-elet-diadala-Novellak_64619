@@ -1,5 +1,8 @@
 _repo: Az-elet-diadala-Novellak_64619
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 64619-h/images/cover.jpg
 creator:
   author:
     agent_name: Szomory, Dezső
@@ -12,6 +15,8 @@ creator:
     - https://en.wikipedia.org/wiki/Dezs%C5%91_Szomory
     - https://hu.wikipedia.org/wiki/Szomory_Dezs%C5%91
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64619#Az-elet-diadala-Novellak
 gutenberg_issued: '2021-02-24'
 gutenberg_type: Text
 identifiers:
